@@ -1,8 +1,8 @@
 ---
 tag:
   - ecommerce
-title: Crazy hat
-image: assets/gdsprslyvgipdn2nidnj-1-7x4zz.jpg
+title: Carcadia
+image: assets/carcadia-hero.png
 date: 2023-10-02
 ---
 
